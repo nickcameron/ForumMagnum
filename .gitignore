@@ -81,3 +81,6 @@ cypress/videos/*
 
 myLocalDatabase
 myLocalDatabase/*
+
+# Local Netlify folder
+.netlify
